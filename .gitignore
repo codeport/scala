@@ -6,6 +6,10 @@
 .springBeans
 bin
 
+# SVN metadata dir
+#################
+.svn
+
 # Maven Output #
 #################
 target
