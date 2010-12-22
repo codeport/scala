@@ -28,7 +28,7 @@ Icon?
 Thumbs.db
 
 #SBT
-*/target/
-*/lib_managed/
-*/src_managed/
-*/project/boot/
+target/
+lib_managed/
+src_managed/
+boot/
