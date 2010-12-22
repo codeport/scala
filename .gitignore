@@ -26,3 +26,9 @@ Springsprout.iml
 ehthumbs.db
 Icon?
 Thumbs.db
+
+#SBT
+*/target/
+*/lib_managed/
+*/src_managed/
+*/project/boot/
